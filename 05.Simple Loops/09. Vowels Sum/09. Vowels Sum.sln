@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Vowels Sum", "09. Vowels Sum\09. Vowels Sum.csproj", "{E593E110-9F88-443A-A321-E5011BCA9F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Half Sum Element", "..\10. Half Sum Element\10. Half Sum Element.csproj", "{48713B14-3958-4C78-A08E-9315F382F351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E593E110-9F88-443A-A321-E5011BCA9F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E593E110-9F88-443A-A321-E5011BCA9F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E593E110-9F88-443A-A321-E5011BCA9F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E593E110-9F88-443A-A321-E5011BCA9F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48713B14-3958-4C78-A08E-9315F382F351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48713B14-3958-4C78-A08E-9315F382F351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48713B14-3958-4C78-A08E-9315F382F351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48713B14-3958-4C78-A08E-9315F382F351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51482234-4005-4F42-B3C4-AB9AC3014E1E}
+	EndGlobalSection
+EndGlobal
